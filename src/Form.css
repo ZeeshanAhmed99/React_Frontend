@@ -1,0 +1,8 @@
+.Header{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 14px;
+    color: brown;
+    margin: 5px;
+    padding: 5px;
+}
